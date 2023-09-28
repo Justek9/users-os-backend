@@ -1,0 +1,11 @@
+{
+	"name": "users-operating-system",
+	"version": "1.0.0",
+	"main": "index.html",
+	"repository": "git@github.com:Justek9/users-os-backend.git",
+	"author": "Justyna Konikiewicz",
+	"license": "MIT",
+	"dependencies": {
+		"electron": "5.0.6"
+	}
+}
